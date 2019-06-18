@@ -1,0 +1,30 @@
+E:\SQIValveSoftware\OnGoing\CsharpRefpropCrack\bin\Debug\CsharpRefprop.dll
+E:\SQIValveSoftware\OnGoing\CsharpRefpropCrack\bin\Debug\CsharpRefprop.pdb
+E:\SQIValveSoftware\OnGoing\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQIValveSoftware\OnGoing\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.dll
+E:\SQIValveSoftware\OnGoing\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.pdb
+D:\ValveSoftware\OnGoing_201503301135\CsharpRefpropCrack\bin\Debug\CsharpRefprop.dll
+D:\ValveSoftware\OnGoing_201503301135\CsharpRefpropCrack\bin\Debug\CsharpRefprop.pdb
+D:\ValveSoftware\OnGoing_201503301135\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ValveSoftware\OnGoing_201503301135\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.dll
+D:\ValveSoftware\OnGoing_201503301135\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.pdb
+D:\ValveSoftware\V1.0.1.8_201503301505\CsharpRefpropCrack\bin\Debug\CsharpRefprop.dll
+D:\ValveSoftware\V1.0.1.8_201503301505\CsharpRefpropCrack\bin\Debug\CsharpRefprop.pdb
+D:\ValveSoftware\V1.0.1.8_201503301505\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ValveSoftware\V1.0.1.8_201503301505\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.dll
+D:\ValveSoftware\V1.0.1.8_201503301505\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.pdb
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\bin\Debug\CsharpRefprop.dll
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\bin\Debug\CsharpRefprop.pdb
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.dll
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.pdb
+E:\code\CSharp\2014 SQI Valve\OnGoing\CsharpRefpropCrack\bin\Debug\CsharpRefprop.dll
+E:\code\CSharp\2014 SQI Valve\OnGoing\CsharpRefpropCrack\bin\Debug\CsharpRefprop.pdb
+E:\code\CSharp\2014 SQI Valve\OnGoing\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\2014 SQI Valve\OnGoing\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.dll
+E:\code\CSharp\2014 SQI Valve\OnGoing\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\SQICompressorTester\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\SQICompressorTester\CsharpRefpropCrack\bin\Debug\CsharpRefprop.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\SQICompressorTester\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\SQICompressorTester\CsharpRefpropCrack\bin\Debug\CsharpRefprop.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\SQICompressorTester\CsharpRefpropCrack\obj\x86\Debug\CsharpRefprop.dll

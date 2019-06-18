@@ -1,0 +1,3 @@
+CsharpRefprop.dll需要拷贝到各个引用utilitity的工程，并且做手动引用
+
+其他DLL复制到启动工程的DEBUG文件夹

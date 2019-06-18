@@ -1,0 +1,65 @@
+﻿<Window x:Class="SHHS.UILabs.RealtimeCurves.MultiSetter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MultiSetter" Height="515" Width="975" 
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#ebe9ed">
+        <TabControl Name="tabControl" Margin="0,0,75,0" Background="#ebe9ed" >
+        </TabControl>
+        <GroupBox Header="{DynamicResource Color}" HorizontalAlignment="Right" Margin="0,134,5,15" Name="groupBox5" Width="65" >
+            <Grid >
+                <StackPanel Name="stackPanel1" Orientation="Vertical" HorizontalAlignment="Left" Width="26">
+                    <Button Background="Red" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor1" Width="24" ToolTip="Red"></Button>
+                    <Button Background="OrangeRed" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor2" Width="24" ToolTip="OrangeRed"></Button>
+                    <Button Background="Pink" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor3" Width="24" ToolTip="Pink"></Button>
+                    <Button Background="Salmon" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor4" Width="24" ToolTip="Salmon"></Button>
+                    <Button Background="Plum" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor5" Width="24" ToolTip="Plum"></Button>
+                    <Button Background="Violet" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor6" Width="24" ToolTip="Violet"></Button>
+                    <Button Background="Magenta" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor7" Width="24" ToolTip="Magenta"></Button>
+                    <Button Background="DarkOrchid" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor8" Width="24" ToolTip="DarkOrchid"></Button>
+                    <Button Background="MidnightBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor9" Width="24" ToolTip="MidnightBlue"></Button>
+                    <Button Background="MediumBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor10" Width="24" ToolTip="MediumBlue"></Button>
+                    <Button Background="Blue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor11" Width="24" ToolTip="Blue"></Button>
+                    <Button Background="DodgerBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor12" Width="24" ToolTip="DodgerBlue"></Button>
+                    <Button Background="Cyan" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor13" Width="24" ToolTip="Cyan"></Button>
+                    <Button Background="Aqua" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor14" Width="24" ToolTip="Aqua"></Button>
+                    <Button Background="SkyBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor15" Width="24" ToolTip="SkyBlue"></Button>
+                    <Button Background="ForestGreen" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor16" Width="24" ToolTip="ForestGreen"></Button>
+                    <Button Background="YellowGreen" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor17" Width="24" ToolTip="YellowGreen"></Button>
+                    <Button Background="GreenYellow" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor18" Width="24" ToolTip="GreenYellow"></Button>
+                    <Button Background="Lime" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor19" Width="24" ToolTip="Lime"></Button>
+                    <Button Background="Khaki" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor20" Width="24" ToolTip="Khaki"></Button>
+                    <Button Background="Yellow" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor21" Width="24" ToolTip="Yellow"></Button>
+                    <Button Background="SandyBrown" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor22" Width="24" ToolTip="SandyBrown"></Button>
+                </StackPanel>
+                <StackPanel Name="stackPanel2" Orientation="Vertical" HorizontalAlignment="Right" Width="26">
+                    <Button Background="Black" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor23" Width="24" ToolTip="Black" />
+                    <Button Background="CadetBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor24" Width="24" ToolTip="CadetBlue" />
+                    <Button Background="DodgerBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor25" Width="24" ToolTip="DodgerBlue" />
+                    <Button Background="MediumSlateBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor26" Width="24" ToolTip="MediumSlateBlue" />
+                    <Button Background="DarkSlateBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor27" Width="24" ToolTip="DarkSlateBlue" />
+                    <Button Background="BlueViolet" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor28" Width="24" ToolTip="BlueViolet" />
+                    <Button Background="MediumOrchid" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor29" Width="24" ToolTip="MediumOrchid" />
+                    <Button Background="MediumAquamarine" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor30" Width="24" ToolTip="MediumAquamarine" />
+                    <Button Background="DeepSkyBlue" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor31" Width="24" ToolTip="DeepSkyBlue" />
+                    <Button Background="LawnGreen" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor32" Width="24" ToolTip="LawnGreen" />
+                    <Button Background="Turquoise" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor33" Width="24" ToolTip="Turquoise" />
+                    <Button Background="LimeGreen" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor34" Width="24" ToolTip="LimeGreen" />
+                    <Button Background="PaleVioletRed" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor35" Width="24" ToolTip="PaleVioletRed" />
+                    <Button Background="DeepPink" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor36" Width="24" ToolTip="DeepPink" />
+                    <Button Background="Crimson" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor37" Width="24" ToolTip="Crimson" />
+                    <Button Background="Orchid" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor38" Width="24" ToolTip="Orchid" />
+                    <Button Background="SpringGreen" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor39" Width="24" ToolTip="SpringGreen" />
+                    <Button Background="DarkOrange" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor40" Width="24" ToolTip="DarkOrange" />
+                    <Button Background="LightCoral" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor41" Width="24" ToolTip="LightCoral" />
+                    <Button Background="IndianRed" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor42" Width="24" ToolTip="IndianRed" />
+                    <Button Background="Red" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor43" Width="24" ToolTip="Red" />
+                    <Button Background="DarkRed" BorderBrush="AntiqueWhite" Height="14" Name="buttonColor44" Width="24" ToolTip="DarkRed" />
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,32,7,0" Name="btnOK" VerticalAlignment="Top" Width="60" Click="button_Click" Content="{DynamicResource OK}"></Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,62,7,0" Name="btnCancel" VerticalAlignment="Top" Width="60" Click="button_Click" Content="{DynamicResource Cancel}"></Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,92,7,0" Name="btnApply" VerticalAlignment="Top" Width="60" Click="button_Click" Content="{DynamicResource Apply}"></Button>
+    </Grid>
+</Window>

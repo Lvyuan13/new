@@ -1,0 +1,7 @@
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\REFMDBInquiry_V1.0_201511202057\bin\Release\RefMDBInquiry.exe
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\REFMDBInquiry_V1.0_201511202057\bin\Release\RefMDBInquiry.pdb
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\REFMDBInquiry_V1.0_201511202057\obj\x86\Release\Interop.ADOX.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\REFMDBInquiry_V1.0_201511202057\obj\x86\Release\RefMDBInquiry.csproj.ResolveComReference.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\REFMDBInquiry_V1.0_201511202057\obj\x86\Release\RefMDBInquiry.csproj.CoreCompileInputs.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\REFMDBInquiry_V1.0_201511202057\obj\x86\Release\RefMDBInquiry.exe
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\REFMDBInquiry_V1.0_201511202057\obj\x86\Release\RefMDBInquiry.pdb

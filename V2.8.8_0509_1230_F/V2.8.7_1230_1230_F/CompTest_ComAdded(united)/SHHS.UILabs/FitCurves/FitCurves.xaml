@@ -1,0 +1,314 @@
+﻿<UserControl x:Class="SHHS.UILabs.FitCurves.FitCurves"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="500">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="zh-CN.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid Name="gridBase">
+        <Grid.Resources>
+            <!--曲线控件的Background-->
+            <DrawingBrush x:Key="MyMonitorBrushResource" Viewport="0,0,0.05,0.05" Opacity="1" ViewportUnits="RelativeToBoundingBox"  TileMode="Tile">
+                <DrawingBrush.Drawing>
+                    <DrawingGroup>
+                        <DrawingGroup.Children>
+                            <GeometryDrawing Brush="WhiteSmoke">
+                                <GeometryDrawing.Geometry>
+                                    <RectangleGeometry Rect="0,0,1,1" />
+                                </GeometryDrawing.Geometry>
+                            </GeometryDrawing>
+                            <GeometryDrawing Geometry="M0,0 L1,0 1,0.02, 0.1,0.02Z" Brush="#CCCCFF" /><!--CCCCFF-->
+                            <GeometryDrawing Geometry="M0,0 L0,1 0.02,1, 0.02,0Z" Brush="#CCCCFF" />
+                        </DrawingGroup.Children>
+                    </DrawingGroup>
+                </DrawingBrush.Drawing>
+            </DrawingBrush>
+        </Grid.Resources>
+        <Border Margin="120,30,120,45" BorderBrush="Gray" BorderThickness="1,1,1,0" ClipToBounds="True">
+            <Grid Name="gridGraph" Background="{StaticResource MyMonitorBrushResource}" SizeChanged="gridGraph_SizeChanged">
+                <Grid.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="{DynamicResource Setting_Title}" Name="menuItem_Set" Click="MenuItem_Click"/>
+                        <!--<Separator/>
+                        <MenuItem Header="曲线优化" Name="menuItem_Optimize" Click="MenuItem_Click"/>
+                        <Separator/>
+                        <MenuItem Header="刷新" Name="menuItem_Refresh" Click="MenuItem_Click"/>-->
+                    </ContextMenu>
+                </Grid.ContextMenu>
+                <Path Name="path_1" Visibility="{Binding ElementName=grid_Axis_1,Path=Visibility}" Stroke="{Binding ElementName=tbkAxis_1_Name,Path=Foreground}" StrokeThickness="1"/>
+                <Path Name="path_2" Visibility="{Binding ElementName=grid_Axis_2,Path=Visibility}" Stroke="{Binding ElementName=tbkAxis_2_Name,Path=Foreground}" StrokeThickness="1"/>
+                <Path Name="path_3" Visibility="{Binding ElementName=grid_Axis_3,Path=Visibility}" Stroke="{Binding ElementName=tbkAxis_3_Name,Path=Foreground}" StrokeThickness="1"/>
+                <Path Name="path_4" Visibility="{Binding ElementName=grid_Axis_4,Path=Visibility}" Stroke="{Binding ElementName=tbkAxis_4_Name,Path=Foreground}" StrokeThickness="1"/>
+            </Grid>
+        </Border>
+        <TextBlock Text="{DynamicResource Title}" Name="tbk_Title"  VerticalAlignment="Top" Margin="122,6,122,0" Height="22" FontFamily="STSong" FontSize="16" TextAlignment="Center"/>
+        <!--<Button Click="Button_Click" Content="刷新" FocusVisualStyle="{x:Null}" Style="{x:Null}" Foreground="Black" VerticalAlignment="Top" Margin="0,5,122,0" Height="22" HorizontalAlignment="Right" Width="50" />-->
+        
+        <!--<TextBlock Text="{Binding Path=[0].Name}" Foreground="{Binding Path=[0].Foreground}" Name="tbkAxis_1_Name" Margin="3,0,0,25" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>-->
+        <Grid ClipToBounds="False" Margin="0,30,0,45" Name="grid_Axis_1" HorizontalAlignment="Left" Width="60"
+              TextBlock.Foreground="{Binding Path=[0].Foreground}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="6"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Path=[0].IsActive}" Value="false">
+                            <Setter Property="Grid.Visibility" Value="Hidden"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+            <TextBlock Text="{Binding Path=[0].Name}" Name="tbkAxis_1_Name" Height="Auto" Margin="3,0,-60,-20" VerticalAlignment="Bottom" Grid.Row="10" Grid.ColumnSpan="2" />
+            <Border BorderBrush="{Binding ElementName=tbkAxis_1_11, Path=Foreground}" Grid.Column="1" BorderThickness="0,0.7,0.7,0.7" Margin="0,0,0,0" Grid.RowSpan="11"/>
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="3" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="4" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="5" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="6" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="7" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="8" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="9" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+
+            <TextBlock Name="tbkAxis_1_11" Text="{Binding Path=[0].Scales[10].Value,StringFormat=f1}" TextAlignment="Right" />
+            <TextBlock Grid.Row="1" Name="tbkAxis_1_10" Text="{Binding Path=[0].Scales[9].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="2" Name="tbkAxis_1_9" Text="{Binding Path=[0].Scales[8].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="3" Name="tbkAxis_1_8" Text="{Binding Path=[0].Scales[7].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="4" Name="tbkAxis_1_7" Text="{Binding Path=[0].Scales[6].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="5" Name="tbkAxis_1_6" Text="{Binding Path=[0].Scales[5].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="6" Name="tbkAxis_1_5" Text="{Binding Path=[0].Scales[4].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="7" Name="tbkAxis_1_4" Text="{Binding Path=[0].Scales[3].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="8" Name="tbkAxis_1_3" Text="{Binding Path=[0].Scales[2].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="9" Name="tbkAxis_1_2" Text="{Binding Path=[0].Scales[1].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="10" Name="tbkAxis_1_1" Text="{Binding Path=[0].Scales[0].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Bottom" />
+        </Grid>
+
+        <!--<TextBlock Text="{Binding Path=[1].Name}" Foreground="{Binding Path=[1].Foreground}" Name="tbkAxis_2_Name" Margin="0,10,0,0" Width="120" TextAlignment="Right" HorizontalAlignment="Left" VerticalAlignment="Top"/>-->
+        <Grid ClipToBounds="False" Grid.RowSpan="11" Name="grid_Axis_2" Margin="60,30,0,45" HorizontalAlignment="Left" Width="60"
+              TextBlock.Foreground="{Binding Path=[1].Foreground}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="6"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Path=[1].IsActive}" Value="false">
+                            <Setter Property="Grid.Visibility" Value="Hidden"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+            <TextBlock Text="{Binding Path=[1].Name}" Name="tbkAxis_2_Name" VerticalAlignment="Top" Height="Auto" Margin="-60,-18,0,0" TextAlignment="Right" Grid.ColumnSpan="2" />
+            <Border BorderBrush="{Binding ElementName=tbkAxis_2_11,Path=Foreground}" Grid.Column="1" BorderThickness="0,0.7,0.7,0.7" Margin="0,0,0,0" Grid.RowSpan="11"/>
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="3" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="4" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="5" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="6" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="7" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="8" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="9" Grid.Column="1" Text="-" TextAlignment="Right" VerticalAlignment="Center"/>
+
+            <TextBlock Name="tbkAxis_2_11" Text="{Binding Path=[1].Scales[10].Value,StringFormat=f1}" TextAlignment="Right"/>
+            <TextBlock Grid.Row="1" Name="tbkAxis_2_10" Text="{Binding Path=[1].Scales[9].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="2" Name="tbkAxis_2_9" Text="{Binding Path=[1].Scales[8].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="3" Name="tbkAxis_2_8" Text="{Binding Path=[1].Scales[7].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="4" Name="tbkAxis_2_7" Text="{Binding Path=[1].Scales[6].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="5" Name="tbkAxis_2_6" Text="{Binding Path=[1].Scales[5].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="6" Name="tbkAxis_2_5" Text="{Binding Path=[1].Scales[4].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="7" Name="tbkAxis_2_4" Text="{Binding Path=[1].Scales[3].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="8" Name="tbkAxis_2_3" Text="{Binding Path=[1].Scales[2].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="9" Name="tbkAxis_2_2" Text="{Binding Path=[1].Scales[1].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="10" Name="tbkAxis_2_1" Text="{Binding Path=[1].Scales[0].Value,StringFormat=f1}" TextAlignment="Right" VerticalAlignment="Bottom" />
+        </Grid>
+
+        <!--<TextBlock Text="{Binding Path=[2].Name}" Foreground="{Binding Path=[2].Foreground}" Name="tbkAxis_3_Name" Margin="0,10,0,0" Width="120" HorizontalAlignment="Right" VerticalAlignment="Top"/>-->
+        <Grid ClipToBounds="False" Margin="0,30,60,45" Name="grid_Axis_3" HorizontalAlignment="Right" Width="60"
+              TextBlock.Foreground="{Binding Path=[2].Foreground}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Path=[2].IsActive}" Value="false">
+                            <Setter Property="Grid.Visibility" Value="Hidden"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+            <TextBlock Text="{Binding Path=[2].Name}" VerticalAlignment="Top" Name="tbkAxis_3_Name" Height="Auto" Margin="0,-18,-60,0" Grid.ColumnSpan="2" />
+            <Border BorderBrush="{Binding ElementName=tbkAxis_3_11, Path=Foreground}" BorderThickness="0.7,0.7,0,0.7" Grid.RowSpan="11" Margin="0,0,0,0" />
+            <TextBlock Grid.Row="1" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="2" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="3" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="4" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="5" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="6" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="7" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="8" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="9" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+
+            <TextBlock Grid.Column="1" Name="tbkAxis_3_11" Text="{Binding Path=[2].Scales[10].Value,StringFormat=f1}" TextAlignment="Left" />
+            <TextBlock Grid.Column="1" Grid.Row="1" Name="tbkAxis_3_10" Text="{Binding Path=[2].Scales[9].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="2" Name="tbkAxis_3_9" Text="{Binding Path=[2].Scales[8].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="3" Name="tbkAxis_3_8" Text="{Binding Path=[2].Scales[7].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="4" Name="tbkAxis_3_7" Text="{Binding Path=[2].Scales[6].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="5" Name="tbkAxis_3_6" Text="{Binding Path=[2].Scales[5].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="6" Name="tbkAxis_3_5" Text="{Binding Path=[2].Scales[4].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="7" Name="tbkAxis_3_4" Text="{Binding Path=[2].Scales[3].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="8" Name="tbkAxis_3_3" Text="{Binding Path=[2].Scales[2].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="9" Name="tbkAxis_3_2" Text="{Binding Path=[2].Scales[1].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="10" Name="tbkAxis_3_1" Text="{Binding Path=[2].Scales[0].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Bottom" />
+        </Grid>
+
+        <!--<TextBlock Text="{Binding Path=[3].Name}" Foreground="{Binding Path=[3].Foreground}" Name="tbkAxis_4_Name" Margin="0,0,6,25" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>-->
+        <Grid ClipToBounds="False" HorizontalAlignment="Right" Margin="0,30,0,45" Name="grid_Axis_4" Width="60"
+              TextBlock.Foreground="{Binding Path=[3].Foreground}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Path=[3].IsActive}" Value="false">
+                            <Setter Property="Grid.Visibility" Value="Hidden"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+            <TextBlock Text="{Binding Path=[3].Name}" VerticalAlignment="Bottom" Name="tbkAxis_4_Name" Height="Auto" Margin="-60,0,3,-20" TextAlignment="Right" Grid.Row="10" Grid.ColumnSpan="2" />
+            <Border BorderBrush="{Binding ElementName=tbkAxis_4_11, Path=Foreground}" BorderThickness="0.7,0.7,0,0.7" Grid.RowSpan="11" Margin="0,0,0,0" />
+            <TextBlock Grid.Row="1" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="2" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="3" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="4" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="5" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="6" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="7" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="8" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="9" Text="-" TextAlignment="Left" VerticalAlignment="Center"/>
+
+            <TextBlock Grid.Column="1" Name="tbkAxis_4_11" Text="{Binding Path=[3].Scales[10].Value,StringFormat=f1}" TextAlignment="Left" />
+            <TextBlock Grid.Column="1" Grid.Row="1" Name="tbkAxis_4_10" Text="{Binding Path=[3].Scales[9].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="2" Name="tbkAxis_4_9" Text="{Binding Path=[3].Scales[8].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="3" Name="tbkAxis_4_8" Text="{Binding Path=[3].Scales[7].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="4" Name="tbkAxis_4_7" Text="{Binding Path=[3].Scales[6].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="5" Name="tbkAxis_4_6" Text="{Binding Path=[3].Scales[5].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="6" Name="tbkAxis_4_5" Text="{Binding Path=[3].Scales[4].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="7" Name="tbkAxis_4_4" Text="{Binding Path=[3].Scales[3].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="8" Name="tbkAxis_4_3" Text="{Binding Path=[3].Scales[2].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="9" Name="tbkAxis_4_2" Text="{Binding Path=[3].Scales[1].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Center" />
+            <TextBlock Grid.Column="1" Grid.Row="10" Name="tbkAxis_4_1" Text="{Binding Path=[3].Scales[0].Value,StringFormat=f1}" TextAlignment="Left" VerticalAlignment="Bottom" />
+        </Grid>
+
+        <Grid Margin="120,0,120,10" Name="grid_Axis_5" Height="35" VerticalAlignment="Bottom"
+              TextBlock.Foreground="{Binding Path=[4].Foreground}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="6"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Border BorderBrush="{Binding ElementName=tbkAxis_5_11, Path=Foreground}" BorderThickness="0.7,0.7,0.7,0" Grid.ColumnSpan="11" Margin="0,0,0,-1" />
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="1" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="2" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="3" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="4" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="5" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="6" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="7" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="8" Text="|" TextAlignment="Center"/>
+            <TextBlock Margin="0,-1,0,-1" FontSize="9" Grid.Column="9" Text="|" TextAlignment="Center"/>
+
+            <TextBlock Grid.Row="1" Name="tbkAxis_5_1" Text="{Binding Path=[4].Scales[0].Value,StringFormat=f1}" TextAlignment="Center" Margin="-17,0,0,0" />
+            <TextBlock Grid.Row="1" Grid.Column="1" Name="tbkAxis_5_2" Text="{Binding Path=[4].Scales[1].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="2" Name="tbkAxis_5_3" Text="{Binding Path=[4].Scales[2].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="3" Name="tbkAxis_5_4" Text="{Binding Path=[4].Scales[3].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="4" Name="tbkAxis_5_5" Text="{Binding Path=[4].Scales[4].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="5" Name="tbkAxis_5_6" Text="{Binding Path=[4].Scales[5].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="6" Name="tbkAxis_5_7" Text="{Binding Path=[4].Scales[6].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="7" Name="tbkAxis_5_8" Text="{Binding Path=[4].Scales[7].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="8" Name="tbkAxis_5_9" Text="{Binding Path=[4].Scales[8].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="9" Name="tbkAxis_5_10" Text="{Binding Path=[4].Scales[9].Value,StringFormat=f1}" TextAlignment="Center" />
+            <TextBlock Grid.Row="1" Grid.Column="10" Name="tbkAxis_5_11" Text="{Binding Path=[4].Scales[10].Value,StringFormat=f1}" TextAlignment="Center" Margin="0,0,-23,0" />
+            <TextBlock Grid.Row="1" Grid.ColumnSpan="11" Height="Auto" Name="tbkAxis_5_Name" Text="{Binding Path=[4].Name}" TextAlignment="Center" VerticalAlignment="Bottom" />
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,84 @@
+﻿<Window x:Class="_DEBUG.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="调试" Height="850" Width="1600" FontSize="23" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Background="{StaticResource bgMain}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Button Content="富士金电动调节阀控制UT1——K1" Height="52" HorizontalAlignment="Left" Margin="40,8,0,0" Name="btM00" VerticalAlignment="Top" Width="298" FontSize="18" Background="Red" Click="btM00_Click" ClickMode="Press" Cursor="Hand" />
+        <Button Content="量热器加热器控制UT2——K2" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM01" VerticalAlignment="Top" Width="279" Grid.Row="1" FontSize="18" Click="btM01_Click" Background="Red" Cursor="Hand" ClickMode="Press" />
+        <Button Content="卡尔调节阀控制UT3——K3" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM02" VerticalAlignment="Top" Width="279" Grid.Row="2" Grid.Column="0" FontSize="18" Click="btM02_Click" Background="Red" Cursor="Hand" ClickMode="Press" />
+        <Button Content="卡尔调节阀控制UT4——K4" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM03" VerticalAlignment="Top" Width="279" Grid.Row="3" Grid.Column="0" FontSize="18" Click="btM03_Click" Background="Red" Cursor="Hand" ClickMode="Press" />
+        <Button Content="水箱加热器控制UT5——K5" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM04" VerticalAlignment="Top" Width="279" Grid.Row="4" Grid.Column="0" FontSize="18" Click="btM04_Click" Background="Red" Cursor="Hand" ClickMode="Press" />
+        <Button Content="压缩机驱动控制UT6——K6" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM05" VerticalAlignment="Top" Width="279" Grid.Row="5" Grid.Column="0" FontSize="18" Click="btM05_Click" Background="Red" Cursor="Hand" ClickMode="Press" />
+        <Button Content="供水泵——K7" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM06" VerticalAlignment="Top" Width="279" Grid.Row="6" Grid.Column="0" FontSize="18" Background="Red" ClickMode="Press" Cursor="Hand" Click="btM06_Click" />
+        <Button Content="循环泵——K8" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM07" VerticalAlignment="Top" Width="279" Grid.Row="7" Grid.Column="0" FontSize="18" Background="Red" ClickMode="Press" Cursor="Hand"  Click="btM07_Click"/>
+        <Button Content="压缩冷凝机组—压缩机——K9" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM10" VerticalAlignment="Top" Width="279" Grid.Row="8" Grid.Column="0" FontSize="18" Background="Red" ClickMode="Press" Cursor="Hand"  Click="btM10_Click"/>
+        <Button Content="压缩冷凝机组—冷凝风机1——K10" Height="52" HorizontalAlignment="Left" Margin="40,8,0,0" Name="btM11" VerticalAlignment="Top" Width="298" Grid.Row="9" FontSize="18" Background="Red" ClickMode="Press" Cursor="Hand" Click="btM11_Click"/>
+        <Button Content="压缩冷凝机组—冷凝风机2——K11" Height="52" HorizontalAlignment="Left" Margin="40,8,0,0" Name="btM20" VerticalAlignment="Top" Width="306" Grid.Row="4" Grid.Column="1" FontSize="18" Background="Red" ClickMode="Press" Cursor="Hand" Click="btM20_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="压缩冷凝机组—电磁阀——K12" Cursor="Hand" FontSize="18" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM21" Width="279" Grid.Row="5" Click="btM21_Click" Grid.Column="1" Height="52" VerticalAlignment="Top" />
+        <Button Background="Red" ClickMode="Press" Content="压缩冷凝机组—加热器——K13" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM22" VerticalAlignment="Top" Width="279" Grid.Column="1" Grid.Row="6" Click="btM22_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="水箱加热器——K14" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM23" VerticalAlignment="Top" Width="279" Grid.Column="1" Grid.Row="7" Click="btM23_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="压缩机驱动电机——K15" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM24" VerticalAlignment="Top" Width="279" Grid.Column="1" Grid.Row="8" Click="btM24_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="压缩机箱风机——K16" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM25" VerticalAlignment="Top" Width="279" Grid.Column="1" Grid.Row="9" Click="btM25_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="压缩机机箱电加热器1——K17" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM26" VerticalAlignment="Top" Width="279" Grid.Column="1" Grid.Row="10" Click="btM26_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="被测压缩冷凝机组——K18" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM27" VerticalAlignment="Top" Width="279" Grid.Column="1" Grid.Row="11" Click="btM27_Click"/>
+
+        <Button Background="Red" ClickMode="Press" Content="量热器加热器1——K19" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM30" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="0" Click="btM30_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="量热器加热器2——K20" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM31" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="1" Click="btM31_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="蜂鸣器报警" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM32" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="2" Click="btM32_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="变频器运转——K21" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM33" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="3" Click="btM33_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="水路转换电磁阀——K22" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM34" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="4" Click="btM34_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="制冷剂路转换电磁阀1——K23" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM35" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="5" Click="btM35_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="制冷剂路转换电磁阀2——K24" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM36" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="6" Click="btM36_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="离合器——K25" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM37" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="7" Click="btM37_Click"/>
+
+
+        <Button Background="Red" ClickMode="Press" Content="出口水温/流量计转换-UT4输入——K26" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="35,8,0,0" Name="btM40" VerticalAlignment="Top" Width="336" Grid.Column="2" Grid.Row="8" Click="btM40_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="进口水温/出水温度转换-UT5输入——K27" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="30,8,0,0" Name="btM41" VerticalAlignment="Top" Width="344" Grid.Column="2" Grid.Row="9" Click="btM41_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="UT3/UT4输出转换-卡尔阀输入——K28" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="30,8,0,0" Name="btM42" VerticalAlignment="Top" Width="344" Grid.Column="2" Grid.Row="10" Click="btM42_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="富士金电动调节阀供电——K29" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM43" VerticalAlignment="Top" Width="279" Grid.Column="2" Grid.Row="11" Click="btM43_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="压缩机箱电加热器2——K30" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM44" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="0" Click="btM44_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="离合器DC24DC12切换继电——K31" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="30,8,0,0" Name="btM45" VerticalAlignment="Top" Width="316" Grid.Column="3" Grid.Row="1" Click="btM45_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="电机变频器故障继电——K32" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM46" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="2" Click="btM46_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="水箱液位报警继电" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM47" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="3" Click="btM47_Click"/>
+
+
+        <Button Background="Red" ClickMode="Press" Content="量热器液位报警继电" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM50" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="4" Click="btM50_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="压缩机组报警继电" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM51" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="5" Click="btM51_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="驱动电机报警继电" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM52" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="6" Click="btM52_Click" />
+        <Button Background="Red" ClickMode="Press" Content="被测机组电磁阀——K33" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM53" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="7" Click="btM53_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="备用2——K34" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM54" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="8" Click="btM54_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="备用3——K35" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM55" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="9" Click="btM55_Click" />
+        <Button Background="Red" ClickMode="Press" Content="备用4——K36" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM56" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="10"  Click="btM56_Click"/>
+        <Button Background="Red" ClickMode="Press" Content="备用5——K37" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM57" VerticalAlignment="Top" Width="279" Grid.Column="3" Grid.Row="11" Click="btM57_Click" />
+
+
+        <Button Background="Red" ClickMode="Press" Content="低压保护软件寄存器M14 btM12" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM12" VerticalAlignment="Top" Width="279" Grid.Row="10" Click="btM12_Click" IsEnabled="False" />
+        <Button Background="Red" ClickMode="Press" Content="急停寄存器btM13" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM13" VerticalAlignment="Top" Width="279" Grid.Row="11" Click="btM13_Click" />
+        <Button Background="Red" ClickMode="Press" Content="btM14" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM14" VerticalAlignment="Top" Width="279" Grid.Row="0" Grid.Column="1" Click="btM14_Click" />
+        <Button Background="Red" ClickMode="Press" Content="btM15" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM15" VerticalAlignment="Top" Width="279" Grid.Row="1" Grid.Column="1" Click="btM15_Click" />
+        <Button Background="Red" ClickMode="Press" Content="btM16" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM16" VerticalAlignment="Top" Width="279" Grid.Row="2" Grid.Column="1" Click="btM16_Click" />
+        <Button Background="Red" ClickMode="Press" Content="btM17" Cursor="Hand" FontSize="18" Height="52" HorizontalAlignment="Left" Margin="50,8,0,0" Name="btM17" VerticalAlignment="Top" Width="279" Grid.Row="3" Grid.Column="1" Click="btM17_Click" />
+
+    </Grid>
+</Window>

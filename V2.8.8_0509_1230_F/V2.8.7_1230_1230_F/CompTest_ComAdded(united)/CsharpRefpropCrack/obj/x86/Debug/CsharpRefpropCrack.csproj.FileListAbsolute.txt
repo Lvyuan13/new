@@ -1,0 +1,166 @@
+D:\code\VBnet\NETRefpropCrack\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\code\VBnet\NETRefpropCrack\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\code\VBnet\NETRefpropCrack\CsharpRefpropCrack\bin\Debug\Refprop_Wrapper.dll
+D:\code\VBnet\NETRefpropCrack\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\VBnet\NETRefpropCrack\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\code\VBnet\NETRefpropCrack\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftwareTo155_201406091432\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISoftwareTo155_201406091432\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftwareTo155_201406091432\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISoftwareTo155_201406091432\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISoftwareTo155_201406091432\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQIsoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQIsoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\C#\SQIsoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQIsoftware\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\SQIsoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\C#\SQIsoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware3\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware3\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware3\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQIsoftware3\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware3\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQIsoftware3\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\C#\SQIsoftware3\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQIsoftware3\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\SQIsoftware3\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\C#\SQIsoftware3\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware4\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware4\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware4\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQIsoftware4\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware4\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQIsoftware自动版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\C#\SQIsoftware自动版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQIsoftware自动版本\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\SQIsoftware自动版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\C#\SQIsoftware自动版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware自动版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware自动版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQIsoftware自动版本\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQIsoftware自动版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQIsoftware自动版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\code\C#\SQI\SQISoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\code\C#\SQI\SQISoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\code\C#\SQI\SQISoftware\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\C#\SQI\SQISoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\code\C#\SQI\SQISoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\SQISoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\code\C#\SQISoftware\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\SQISoftware\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\C#\SQISoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\code\C#\SQISoftware\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware手自动\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware手自动\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware手自动\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISoftware手自动\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware手自动\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISofware手自动\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISofware手自动\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISofware手自动\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISofware手自动\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISofware手自动\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQISofware手自动 改界面版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\C#\SQISofware手自动 改界面版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQISofware手自动 改界面版本\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\SQISofware手自动 改界面版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\C#\SQISofware手自动 改界面版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware手自动 改界面后版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware手自动 改界面后版本\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware手自动 改界面后版本\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISoftware手自动 改界面后版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware手自动 改界面后版本\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQISoftware_Final\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\C#\SQISoftware_Final\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\C#\SQISoftware_Final\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\SQISoftware_Final\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\C#\SQISoftware_Final\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftwareFinal\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISoftwareFinal\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftwareFinal\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISoftwareFinal\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISoftwareFinal\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware验收\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware验收\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware验收\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISoftware验收\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware验收\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\code\C#\SQI\SQISoftware验收\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\code\C#\SQI\SQISoftware验收\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\code\C#\SQI\SQISoftware验收\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\C#\SQI\SQISoftware验收\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\code\C#\SQI\SQISoftware验收\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware验收0811\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware验收0811\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware验收0811\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISoftware验收0811\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware验收0811\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+D:\code\C#\SQI\SQISoftware验收0812\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+D:\code\C#\SQI\SQISoftware验收0812\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+D:\code\C#\SQI\SQISoftware验收0812\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\C#\SQI\SQISoftware验收0812\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+D:\code\C#\SQI\SQISoftware验收0812\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware验收0818\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware验收0818\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\PrevVersion\SQISoftware验收0818\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\PrevVersion\SQISoftware验收0818\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\PrevVersion\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PrevVersion\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\PrevVersion\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\V7.0.2.0Final验收_201408191633\SQISoftware验收0818\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\V7.0.2.0Final验收_201408191633\SQISoftware验收0818\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\V7.0.2.0Final验收_201408191633\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\V7.0.2.0Final验收_201408191633\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\V7.0.2.0Final验收_201408191633\SQISoftware验收0818\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+F:\交大资料\PrevVersion\SQISoftware维护_201409281305\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+F:\交大资料\PrevVersion\SQISoftware维护_201409281305\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+F:\交大资料\PrevVersion\SQISoftware维护_201409281305\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\交大资料\PrevVersion\SQISoftware维护_201409281305\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+F:\交大资料\PrevVersion\SQISoftware维护_201409281305\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\V8.0.1.1验收后维护_201411081136\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\V8.0.1.1验收后维护_201411081136\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\V8.0.1.1验收后维护_201411081136\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\V8.0.1.1验收后维护_201411081136\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\V8.0.1.1验收后维护_201411081136\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\V8.0.1.3验收后维护_201411101915\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\V8.0.1.3验收后维护_201411101915\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\V8.0.1.3验收后维护_201411101915\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\V8.0.1.3验收后维护_201411101915\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\V8.0.1.3验收后维护_201411101915\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\V8.0.1.4验收后维护_201411111018\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\V8.0.1.4验收后维护_201411111018\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\V8.0.1.4验收后维护_201411111018\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\V8.0.1.4验收后维护_201411111018\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\V8.0.1.4验收后维护_201411111018\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\20141128报表数据库大改\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\20141128报表数据库大改\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\20141128报表数据库大改\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\20141128报表数据库大改\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\20141128报表数据库大改\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\V9.0.0.11数据库大改_201412041741\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\V9.0.0.11数据库大改_201412041741\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\V9.0.0.11数据库大改_201412041741\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\V9.0.0.11数据库大改_201412041741\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\V9.0.0.11数据库大改_201412041741\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\code\C#\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\code\CSharp\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\code\CSharp\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\code\CSharp\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\code\CSharp\01 2014-04_SQI风机盘管测试台\SQISoftware验收后维护\维护中程序\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.exe
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\obj\x86\Debug\CsharpRefpropCrack.pdb
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.exe
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\bin\Debug\CsharpRefpropCrack.pdb
+E:\code\CSharp\03 2014-12_SQI制冷阀件测试台\SQI_ValveTest_Field\CsharpRefpropCrack\obj\x86\Debug\ResolveAssemblyReference.cache

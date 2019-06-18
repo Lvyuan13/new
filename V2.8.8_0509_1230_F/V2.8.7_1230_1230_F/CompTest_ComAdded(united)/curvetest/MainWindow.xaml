@@ -1,0 +1,14 @@
+﻿<Window x:Class="curvetest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="621" Width="891" xmlns:my="clr-namespace:SHHS.UILabs.RealtimeCurves;assembly=SHHS.UILabs">
+    <Grid>
+        <TabControl Height="482" HorizontalAlignment="Left" Margin="26,27,0,0" Name="tabControl1" VerticalAlignment="Top" Width="820">
+            <TabItem Header="tabItem1" Name="tabItem1">
+                <Grid>
+                    <my:RealtimeCurves HorizontalAlignment="Left" Margin="10,10,0,0" Name="realtimeCurves1" VerticalAlignment="Top" Height="284" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

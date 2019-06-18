@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApplication2.App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.GlobleFun" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIQQAAAAAAAAAQAQAAIAAAEAAgEEDAAAAAAAAI=</HashCode>
+      <FileName>catalog\GlobleFun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.GlobelVar" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICkmrLIBBQdQixcwoDYwRwAUUsDQ1FI4qQEFCU0fFFA=</HashCode>
+      <FileName>catalog\GlobleVar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.Starting" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAACAAAAAACIAAAAAgIAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.Car" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAICEAAAAAAAACIVAAAAgIAAAAAAAAAAACAAAgAAQ=</HashCode>
+      <FileName>page\Car.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.CarCooling" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEQALSglQhBRCAAOJBQZkiuOBBCCJAzUFGKHAQAC5QI=</HashCode>
+      <FileName>page\CarCooling.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.CarInfo" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAICEAAAAACAACKFAAACgIAAAAAACAADAAAACAAAQ=</HashCode>
+      <FileName>page\CarInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.Chiller" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAICGAAAAAAAACIFAAAggIAAAgAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>page\Chiller.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.ChillerInfo" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAICEAAgAACAACIFAAAAgIEAAAABAAADAAAACAAAQ=</HashCode>
+      <FileName>page\ChillerInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.ChillerTrialcommon" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UVQAKSwkQhBTBsAGZBQZkAuMBCCAIASUBFCVAQAAYQo=</HashCode>
+      <FileName>page\ChillerTrialcommon.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.CoeOfHeatDissipation" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgIAAAAAAAAgAAEAAAAAAA=</HashCode>
+      <FileName>page\CoeOfHeatDissipation.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.EndingSplash" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAACAAAAAACIBAAAAgIAAAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>page\EndingSplash.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.FilterCoe" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAACIBAAKAAAECAQAAoAAEQQAAACgAIEABAAAAE=</HashCode>
+      <FileName>page\FilterCoe.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.MainWindow" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAICEAAAAAAAACIAAAAggIAAMAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>page\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.PartialLoadSelected" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>page\PartialLoadSelected.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.SetStableTimeWindow" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAACIAAAAIgIAAAAAAAAgAAEAIAAAAA=</HashCode>
+      <FileName>page\SetStableTimeWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.StableJudgeConditionOfCar" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAACIAAAAAgIAAAAAAAAiAAEAAAAAAA=</HashCode>
+      <FileName>page\StableJudgeConditionOfCar.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.StableJudgeConditionOfChiller" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAACIAAAAAgIAAAAAAAAiAAEAAAAAAA=</HashCode>
+      <FileName>page\StableJudgeConditionOfChiller.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.StartingSplash" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAACAAAAAACIAAAAAgIAAAAAAAAIAAAAAABAAA=</HashCode>
+      <FileName>page\StartingSplash.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApplication2.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

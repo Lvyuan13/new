@@ -1,0 +1,195 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Setter">
+        Setter
+    </sys:String>
+
+    <sys:String x:Key="ManualScroll">
+        Manual Scroll
+    </sys:String>
+
+    <sys:String x:Key="ComeBack">
+        ComeBack
+    </sys:String>
+
+    <sys:String x:Key="ZoomIn">
+        Zoom In
+    </sys:String>
+
+    <sys:String x:Key="CursorOne">
+        Cursor One
+    </sys:String>
+
+    <sys:String x:Key="CursorTwo">
+        Cursor Two
+    </sys:String>
+
+    <sys:String x:Key="MinTime">
+        Min Time:
+    </sys:String>
+
+    <sys:String x:Key="MaxTime">
+        Max Time:
+    </sys:String>
+
+    <sys:String x:Key="Axis">
+        AxisName
+    </sys:String>
+
+    <sys:String x:Key="Maximum">
+        Maximum
+    </sys:String>
+
+    <sys:String x:Key="Minimum">
+        Minimum
+    </sys:String>
+
+    <sys:String x:Key="Color">
+        Color
+    </sys:String>
+
+    <sys:String x:Key="YAxis1">
+        Capability
+    </sys:String>
+
+    <sys:String x:Key="YAxis2">
+        Power
+    </sys:String>
+
+    <sys:String x:Key="YAxis3">
+        Amount of Wind
+    </sys:String>
+
+    <sys:String x:Key="YAxis4">
+        Percents
+    </sys:String>
+
+    <sys:String x:Key="YAxis5">
+        Temperature
+    </sys:String>
+
+    <sys:String x:Key="YAxis6">
+        Voltage
+    </sys:String>
+
+    <sys:String x:Key="YAxis7">
+        Current
+    </sys:String>
+
+    <sys:String x:Key="YAxis8">
+        Pressure
+    </sys:String>
+
+    <sys:String x:Key="XAxis">
+        X - Axis
+    </sys:String>
+
+    <sys:String x:Key="YAxis">
+        Y - Axis
+    </sys:String>
+
+    <sys:String x:Key="SetCurve">
+        Set Curve Item
+    </sys:String>
+
+    <sys:String x:Key="Item">
+        Item
+    </sys:String>
+
+    <sys:String x:Key="Channel">
+        Channel
+    </sys:String>
+
+    <sys:String x:Key="Channel1">
+        Channel 01
+    </sys:String>
+
+    <sys:String x:Key="Channel2">
+        Channel 02
+    </sys:String>
+
+    <sys:String x:Key="Channel3">
+        Channel 03
+    </sys:String>
+
+    <sys:String x:Key="Channel4">
+        Channel 04
+    </sys:String>
+
+    <sys:String x:Key="Channel5">
+        Channel 05
+    </sys:String>
+
+    <sys:String x:Key="Channel6">
+        Channel 06
+    </sys:String>
+
+    <sys:String x:Key="Channel7">
+        Channel 07
+    </sys:String>
+
+    <sys:String x:Key="Channel8">
+        Channel 08
+    </sys:String>
+
+    <sys:String x:Key="Channel9">
+        Channel 09
+    </sys:String>
+
+    <sys:String x:Key="Channel10">
+        Channel 10
+    </sys:String>
+
+    <sys:String x:Key="Channel11">
+        Channel 11
+    </sys:String>
+
+    <sys:String x:Key="Channel12">
+        Channel 12
+    </sys:String>
+
+    <sys:String x:Key="Channel13">
+        Channel 13
+    </sys:String>
+
+    <sys:String x:Key="Channel14">
+        Channel 14
+    </sys:String>
+
+    <sys:String x:Key="Channel15">
+        Channel 15
+    </sys:String>
+
+    <sys:String x:Key="Channel16">
+        Channel 16
+    </sys:String>
+
+    <sys:String x:Key="Channel17">
+        Channel 17
+    </sys:String>
+
+    <sys:String x:Key="Channel18">
+        Channel 18
+    </sys:String>
+
+    <sys:String x:Key="Channel19">
+        Channel 19
+    </sys:String>
+
+    <sys:String x:Key="Channel20">
+        Channel 20
+    </sys:String>
+
+    <sys:String x:Key="OK">
+        OK
+    </sys:String>
+
+    <sys:String x:Key="Cancel">
+        Cancel
+    </sys:String>
+
+    <sys:String x:Key="Apply">
+        Apply
+    </sys:String>
+</ResourceDictionary>

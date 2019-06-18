@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{406B483A-7AF5-49EF-A21B-E65942EAD546}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WpfApplication2</RootNamespace>
+    <AssemblyName>WpfApplication2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CsharpRefprop">
+      <HintPath>..\DLLReference\CsharpRefprop.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="catalog\GlobleFun.cs" />
+    <Compile Include="catalog\GlobleVar.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="page\Car.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\CarAirCondition.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\CarAirConditionInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\CarCooling.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\OpenCarInfo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\Chiller.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\ChillerInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\ChillerTrialcommon.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\CoeOfHeatDissipation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\EndingSplash.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\FilterCoe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\IsQualifiedWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\PartialLoadSelected.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\SetStableTimeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\StableJudgeConditionOfCar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\StableJudgeConditionOfChiller.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\StartingSplash.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page\CarAirConditonTrial.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\AirCooledChiller.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\AirCooledChillerInfo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\AirCooledChillerTrial.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\Evaporator.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\EvaporatorInfo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\CondenserInfo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\Condenser.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\EvaporatorTrial.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\CondenserTrial.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\CompresorSelected.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page\MotorCarInfo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="page\Car.xaml.cs">
+      <DependentUpon>Car.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CarAirCondition.xaml.cs">
+      <DependentUpon>CarAirCondition.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CarAirConditionInfo.xaml.cs">
+      <DependentUpon>CarAirConditionInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CarCooling.xaml.cs">
+      <DependentUpon>CarCooling.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\OpenCarInfo.xaml.cs">
+      <DependentUpon>OpenCarInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\Chiller.xaml.cs">
+      <DependentUpon>Chiller.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\ChillerInfo.xaml.cs">
+      <DependentUpon>ChillerInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\ChillerTrialcommon.xaml.cs">
+      <DependentUpon>ChillerTrialcommon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CoeOfHeatDissipation.xaml.cs">
+      <DependentUpon>CoeOfHeatDissipation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\EndingSplash.xaml.cs">
+      <DependentUpon>EndingSplash.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\FilterCoe.xaml.cs">
+      <DependentUpon>FilterCoe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\IsQualifiedWindow.xaml.cs">
+      <DependentUpon>IsQualifiedWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\PartialLoadSelected.xaml.cs">
+      <DependentUpon>PartialLoadSelected.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\SetStableTimeWindow.xaml.cs">
+      <DependentUpon>SetStableTimeWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\StableJudgeConditionOfCar.xaml.cs">
+      <DependentUpon>StableJudgeConditionOfCar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\StableJudgeConditionOfChiller.xaml.cs">
+      <DependentUpon>StableJudgeConditionOfChiller.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\StartingSplash.xaml.cs">
+      <DependentUpon>StartingSplash.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CarAirConditonTrial.xaml.cs">
+      <DependentUpon>CarAirConditonTrial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\AirCooledChiller.xaml.cs">
+      <DependentUpon>AirCooledChiller.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\AirCooledChillerInfo.xaml.cs">
+      <DependentUpon>AirCooledChillerInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\AirCooledChillerTrial.xaml.cs">
+      <DependentUpon>AirCooledChillerTrial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\Evaporator.xaml.cs">
+      <DependentUpon>Evaporator.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\EvaporatorInfo.xaml.cs">
+      <DependentUpon>EvaporatorInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CondenserInfo.xaml.cs">
+      <DependentUpon>CondenserInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\Condenser.xaml.cs">
+      <DependentUpon>Condenser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\EvaporatorTrial.xaml.cs">
+      <DependentUpon>EvaporatorTrial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CondenserTrial.xaml.cs">
+      <DependentUpon>CondenserTrial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\CompresorSelected.xaml.cs">
+      <DependentUpon>CompresorSelected.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page\MotorCarInfo.xaml.cs">
+      <DependentUpon>MotorCarInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\图片1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\图片2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\图片3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\图片4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\图片5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BackPanel\BackPanel.csproj">
+      <Project>{5726DF50-B958-41EF-8D58-A148B31FD016}</Project>
+      <Name>BackPanel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\REFMDBInquiry_V1.0_201511202057\RefMDBInquiry.csproj">
+      <Project>{34F21EFB-850F-4537-BC1B-A500A47A7A68}</Project>
+      <Name>RefMDBInquiry</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Report\Report.csproj">
+      <Project>{23CCB0B3-B2DD-49D6-BAE1-CF8F654ADB0C}</Project>
+      <Name>Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SHHS.FPTB.Base\SHHS.FPTB.Base.csproj">
+      <Project>{90FBE1E9-0BF9-4D7A-8053-FB6E0E1F56B4}</Project>
+      <Name>SHHS.FPTB.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SHHS.UILabs\SHHS.UILabs.csproj">
+      <Project>{FB9014E7-1764-4199-85A2-254C0B53B3C0}</Project>
+      <Name>SHHS.UILabs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utility\Utility.csproj">
+      <Project>{B8BFBE46-1C94-4E37-99D0-2734F91C79BC}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\_DEBUG\_DEBUG.csproj">
+      <Project>{9644A2A1-90B4-4684-B29B-483737EA7B04}</Project>
+      <Name>_DEBUG</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\CAR.png" />
+    <Resource Include="Images\CarComp.jpg" />
+    <Resource Include="Images\Chiller.jpg" />
+    <Resource Include="Images\Chiller.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\CarSystem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ChillerSystem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Starting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ChillerSystemNew.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

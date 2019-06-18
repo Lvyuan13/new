@@ -1,0 +1,6 @@
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Release\SHHS.FPTB.Base.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Release\SHHS.FPTB.Base.pdb
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Release\SHHS.FPTB.Base.csprojAssemblyReference.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Release\SHHS.FPTB.Base.csproj.CoreCompileInputs.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Release\SHHS.FPTB.Base.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Release\SHHS.FPTB.Base.pdb

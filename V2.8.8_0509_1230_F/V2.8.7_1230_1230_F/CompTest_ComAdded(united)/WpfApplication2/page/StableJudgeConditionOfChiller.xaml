@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfApplication2.StableJudgeConditionOfChiller"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="判稳条件" Background="{StaticResource bgMain}" Height="380" Width="470" FontSize="18" FontFamily="SimSun" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Viewbox>
+
+
+        <Grid Width="391">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="187*" />
+                <ColumnDefinition Width="149*" />
+                <ColumnDefinition Width="112*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.2*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="43" />
+                <RowDefinition Height="41" />
+            </Grid.RowDefinitions>
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="68,20,0,0" Name="textBlock1" Text="项目" VerticalAlignment="Top" />
+            <TextBlock Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="36,20,0,0" Name="textBlock2" Text="允许偏差" VerticalAlignment="Top" />
+            <TextBlock Grid.Column="2" Height="23" HorizontalAlignment="Left" Margin="27,20,0,0" Name="textBlock3" Text="单位" VerticalAlignment="Top" />
+            <TextBlock Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="50,17,0,0" Name="textBlock4" Text="蒸发压力" VerticalAlignment="Top" />
+            <TextBlock Grid.Row="3" Height="23" HorizontalAlignment="Left" Margin="50,18,0,0" Name="textBlock5" Text="进水温度" VerticalAlignment="Top" />
+            <TextBlock Grid.Row="4" Height="23" HorizontalAlignment="Left" Margin="23,14,0,0" Name="textBlock6" Text="冷却水流量偏差" VerticalAlignment="Top" />
+            <TextBlock Grid.Row="5" Height="23" HorizontalAlignment="Left" Margin="50,17,0,0" Name="textBlock7" Text="出水温度" VerticalAlignment="Top" />
+            <TextBlock Grid.Column="2" Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="27,18,0,0" Name="textBlock8" Text="MPa" VerticalAlignment="Top" />
+            <TextBlock Grid.Column="2" Grid.Row="3" Height="23" HorizontalAlignment="Left" Margin="26,19,0,0" Name="textBlock9" Text="℃" VerticalAlignment="Top" />
+            <TextBlock Grid.Column="2" Grid.Row="4" Height="23" HorizontalAlignment="Left" Margin="33,13,0,0" Name="textBlock10" Text="%" VerticalAlignment="Top" />
+            <TextBlock Grid.Column="2" Grid.Row="5" Height="23" HorizontalAlignment="Left" Margin="28,18,0,0" Name="textBlock11" Text="℃" VerticalAlignment="Top" />
+            <TextBox Grid.Column="1" Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="8,16,0,0" Name="txt_1" VerticalAlignment="Top" Width="120" />
+            <TextBox Grid.Column="1" Grid.Row="3" Height="23" HorizontalAlignment="Left" Margin="8,17,0,0" Name="txt_3" VerticalAlignment="Top" Width="120" />
+            <TextBox Grid.Column="1" Grid.Row="4" Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="txt_4waterflow" VerticalAlignment="Top" Width="120" />
+            <TextBox Grid.Column="1" Grid.Row="5" Height="23" HorizontalAlignment="Left" Margin="7,15,0,0" Name="txt_5waterTemperature" VerticalAlignment="Top" Width="120" />
+            <Button Content="确认" Grid.Row="7" Height="33" HorizontalAlignment="Left" Margin="15,5,0,0" Name="btOK" VerticalAlignment="Top" Width="75" Click="btOK_Click" Grid.Column="1" />
+            <Button Content="取消" Grid.Column="2" Grid.Row="7" Height="33" HorizontalAlignment="Left" Margin="5,5,0,0" Name="btCancel" VerticalAlignment="Top" Width="75" Click="btCancel_Click" />
+
+            <Separator Background="WhiteSmoke" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Height="5" HorizontalAlignment="Stretch" Margin="0,0,0,0" Name="separator1" VerticalAlignment="Top"  />
+
+            <Separator Background="WhiteSmoke" Grid.Row="6" Grid.ColumnSpan="3" Height="5" HorizontalAlignment="Stretch" Name="separator2" VerticalAlignment="Top"  />
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="50,11,0,0" Name="textBlock12" Text="吸气温度" VerticalAlignment="Top" Grid.Row="2" />
+            <TextBlock Grid.Column="2" Height="23" HorizontalAlignment="Left" Margin="26,9,0,0" Name="textBlock13" Text="℃" VerticalAlignment="Top" Grid.Row="2" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="8,8,0,0" Name="txt_2" VerticalAlignment="Top" Width="120" Grid.Column="1" Grid.Row="2" />
+        </Grid>
+
+    </Viewbox>
+</Window>

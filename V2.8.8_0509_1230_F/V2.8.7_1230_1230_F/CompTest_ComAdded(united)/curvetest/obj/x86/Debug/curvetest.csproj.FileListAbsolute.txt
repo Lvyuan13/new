@@ -1,0 +1,15 @@
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\bin\Debug\curvetest.exe
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\bin\Debug\curvetest.pdb
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\bin\Debug\SHHS.UILabs.dll
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\bin\Debug\SHHS.UILabs.pdb
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\MainWindow.baml
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\MainWindow.g.cs
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\App.g.cs
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\curvetest_MarkupCompile.cache
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\curvetest.g.resources
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\curvetest.Properties.Resources.resources
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\curvetest.exe
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\curvetest\obj\x86\Debug\curvetest.pdb

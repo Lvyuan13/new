@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Title">风机性能曲线</sys:String>
+
+    <sys:String x:Key="Setting_Title">曲线设置</sys:String>
+    <sys:String x:Key="Setting_Heater_No">序号</sys:String>
+    <sys:String x:Key="Setting_Heater_Channel">对应通道</sys:String>
+    <sys:String x:Key="Setting_Heater_Min">最小值</sys:String>
+    <sys:String x:Key="Setting_Heater_Max">最大值</sys:String>
+    <sys:String x:Key="Setting_Heater_Unit">单位</sys:String>
+    <sys:String x:Key="Setting_Heater_Color">颜色</sys:String>
+    <sys:String x:Key="Setting_Heater_Linest">优化</sys:String>
+
+    <sys:String x:Key="Setting_No_1">第 1 Y轴</sys:String>
+    <sys:String x:Key="Setting_No_2">第 2 Y轴</sys:String>
+    <sys:String x:Key="Setting_No_3">第 3 Y轴</sys:String>
+    <sys:String x:Key="Setting_No_4">第 4 Y轴</sys:String>
+    <sys:String x:Key="Setting_No_X">X 轴</sys:String>
+    <sys:String x:Key="Setting_Button_Done">完 成</sys:String>
+</ResourceDictionary>

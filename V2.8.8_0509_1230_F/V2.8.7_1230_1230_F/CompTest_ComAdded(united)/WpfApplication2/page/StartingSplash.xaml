@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfApplication2.StartingSplash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="初始化"  Height="260" Width="420" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="AliceBlue" Loaded="Window_Loaded">
+    <Grid Background="{StaticResource bgMain}">
+        <TextBlock Height="47" HorizontalAlignment="Left" Margin="109,74,0,0" Name="textBlock1" Text="正在初始化设备," VerticalAlignment="Top" Width="223" Loaded="textBlock1_Loaded" FontSize="28"     />
+        <TextBlock Height="40" HorizontalAlignment="Left" Margin="157,119,0,0" Name="textBlock2" Text="请等待..." VerticalAlignment="Top" Width="127" FontSize="28" />
+    </Grid>
+</Window>

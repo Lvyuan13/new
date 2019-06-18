@@ -1,0 +1,195 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Setter">
+        设置
+    </sys:String>
+
+    <sys:String x:Key="ManualScroll">
+        手动滚动
+    </sys:String>
+
+    <sys:String x:Key="ComeBack">
+        恢复
+    </sys:String>
+
+    <sys:String x:Key="ZoomIn">
+        放大
+    </sys:String>
+
+    <sys:String x:Key="CursorOne">
+        光标一
+    </sys:String>
+
+    <sys:String x:Key="CursorTwo">
+        光标二
+    </sys:String>
+
+    <sys:String x:Key="MinTime">
+        最小时间:
+    </sys:String>
+
+    <sys:String x:Key="MaxTime">
+        最大时间:
+    </sys:String>
+
+    <sys:String x:Key="Axis">
+        轴名称
+    </sys:String>
+
+    <sys:String x:Key="Maximum">
+        最大值
+    </sys:String>
+
+    <sys:String x:Key="Minimum">
+        最小值
+    </sys:String>
+
+    <sys:String x:Key="Color">
+        颜色
+    </sys:String>
+
+    <sys:String x:Key="YAxis1">
+        能力
+    </sys:String>
+
+    <sys:String x:Key="YAxis2">
+        功率
+    </sys:String>
+
+    <sys:String x:Key="YAxis3">
+        流量
+    </sys:String>
+
+    <sys:String x:Key="YAxis4">
+        百分比
+    </sys:String>
+
+    <sys:String x:Key="YAxis5">
+        温度
+    </sys:String>
+
+    <sys:String x:Key="YAxis6">
+        电压
+    </sys:String>
+
+    <sys:String x:Key="YAxis7">
+        电流
+    </sys:String>
+
+    <sys:String x:Key="YAxis8">
+        压力
+    </sys:String>
+
+    <sys:String x:Key="XAxis">
+        时间轴
+    </sys:String>
+
+    <sys:String x:Key="YAxis">
+        数据轴
+    </sys:String>
+
+    <sys:String x:Key="SetCurve">
+        设定曲线项目
+    </sys:String>
+
+    <sys:String x:Key="Item">
+        项目
+    </sys:String>
+
+    <sys:String x:Key="Channel">
+        通道
+    </sys:String>
+
+    <sys:String x:Key="Channel1">
+        通道 01
+    </sys:String>
+
+    <sys:String x:Key="Channel2">
+        通道 02
+    </sys:String>
+
+    <sys:String x:Key="Channel3">
+        通道 03
+    </sys:String>
+
+    <sys:String x:Key="Channel4">
+        通道 04
+    </sys:String>
+
+    <sys:String x:Key="Channel5">
+        通道 05
+    </sys:String>
+
+    <sys:String x:Key="Channel6">
+        通道 06
+    </sys:String>
+
+    <sys:String x:Key="Channel7">
+        通道 07
+    </sys:String>
+
+    <sys:String x:Key="Channel8">
+        通道 08
+    </sys:String>
+
+    <sys:String x:Key="Channel9">
+        通道 09
+    </sys:String>
+
+    <sys:String x:Key="Channel10">
+        通道 10
+    </sys:String>
+
+    <sys:String x:Key="Channel11">
+        通道 11
+    </sys:String>
+
+    <sys:String x:Key="Channel12">
+        通道 12
+    </sys:String>
+
+    <sys:String x:Key="Channel13">
+        通道 13
+    </sys:String>
+
+    <sys:String x:Key="Channel14">
+        通道 14
+    </sys:String>
+
+    <sys:String x:Key="Channel15">
+        通道 15
+    </sys:String>
+
+    <sys:String x:Key="Channel16">
+        通道 16
+    </sys:String>
+
+    <sys:String x:Key="Channel17">
+        通道 17
+    </sys:String>
+
+    <sys:String x:Key="Channel18">
+        通道 18
+    </sys:String>
+
+    <sys:String x:Key="Channel19">
+        通道 19
+    </sys:String>
+
+    <sys:String x:Key="Channel20">
+        通道 20
+    </sys:String>
+
+    <sys:String x:Key="OK">
+        确定
+    </sys:String>
+
+    <sys:String x:Key="Cancel">
+        取消
+    </sys:String>
+
+    <sys:String x:Key="Apply">
+        应用
+    </sys:String>
+</ResourceDictionary>

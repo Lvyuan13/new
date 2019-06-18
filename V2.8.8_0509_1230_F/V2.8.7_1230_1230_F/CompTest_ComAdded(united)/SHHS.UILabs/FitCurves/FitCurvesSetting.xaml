@@ -1,0 +1,84 @@
+﻿<Window x:Class="SHHS.UILabs.FitCurves.FitCurvesSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FitCarvesSetting" Height="294" Width="682" Background="#FFF0F0F0"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="Transparent">
+        <GroupBox Header="{DynamicResource Setting_Title}" Margin="12,12,12,60">
+            <Grid Name="gridBase">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="110" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="65" />
+                    <ColumnDefinition Width="65" />
+                    <ColumnDefinition Width="60" />
+                    <ColumnDefinition Width="70" />
+                    <ColumnDefinition Width="70" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="8" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Border Background="Silver" Grid.ColumnSpan="7"/>
+                <TextBlock Text="{DynamicResource Setting_Heater_No}" FontSize="14" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{DynamicResource Setting_Heater_Channel}" Grid.Column="1" FontSize="14" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{DynamicResource Setting_Heater_Min}" Grid.Column="2" FontSize="14" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{DynamicResource Setting_Heater_Max}" Grid.Column="3" FontSize="14" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{DynamicResource Setting_Heater_Unit}" Grid.Column="4" FontSize="14" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{DynamicResource Setting_Heater_Color}" Grid.Column="5" FontSize="14" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{DynamicResource Setting_Heater_Linest}" Grid.Column="6" FontSize="14" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+                <CheckBox Content="{DynamicResource Setting_No_1}" IsChecked="{Binding Path=[0].IsActive,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="1" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                <ComboBox Name="cbBoxAxis1" SelectionChanged="cbBoxAxis_SelectionChanged" SelectedIndex="{Binding Path=[0].ChannelNo,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="1" Grid.Column="1" Margin="5,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_1_Min" Text="{Binding Path=[0].Minimum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="1" Grid.Column="2" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_1_Max" Text="{Binding Path=[0].Maximum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="1" Grid.Column="3" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBlock Name="tbkUnit1" Text="{Binding Path=[0].Unit,UpdateSourceTrigger=Explicit}" Grid.Row="1" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label Background="{Binding Path=[0].Foreground,UpdateSourceTrigger=Explicit,Mode=TwoWay}" MouseDown="TextBlock_MouseDown" Grid.Row="1" Grid.Column="5" Margin="10,7"/>
+                <TextBox Name="txtAxis_1_Linest" Text="{Binding Path=Value,ElementName=scrollBar_1}" IsReadOnly="True" BorderThickness="1,1,0,1" Grid.Row="1" Grid.Column="6" Margin="5,3,22,3"/>
+                <ScrollBar Name="scrollBar_1" Value="{Binding Path=[0].LinestNumber,UpdateSourceTrigger=Explicit}" Minimum="2" Maximum="6" Orientation="Vertical" SmallChange="1" Grid.Row="1" Grid.Column="6" HorizontalAlignment="Right" Margin="0,3,7,3" Width="18"/>
+
+                <CheckBox Content="{DynamicResource Setting_No_2}" IsChecked="{Binding Path=[1].IsActive,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="2" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                <ComboBox Name="cbBoxAxis2" SelectionChanged="cbBoxAxis_SelectionChanged" SelectedIndex="{Binding Path=[1].ChannelNo,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="2" Grid.Column="1" Margin="5,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_2_Min" Text="{Binding Path=[1].Minimum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="2" Grid.Column="2" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_2_Max" Text="{Binding Path=[1].Maximum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="2" Grid.Column="3" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBlock Name="tbkUnit2" Text="{Binding Path=[1].Unit,UpdateSourceTrigger=Explicit}" Grid.Row="2" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label Background="{Binding Path=[1].Foreground,UpdateSourceTrigger=Explicit,Mode=TwoWay}" MouseDown="TextBlock_MouseDown" Grid.Row="2" Grid.Column="5" Margin="10,7"/>
+                <TextBox Name="txtAxis_2_Linest" Text="{Binding Path=Value,ElementName=scrollBar_2}" IsReadOnly="True" BorderThickness="1,1,0,1" Grid.Row="2" Grid.Column="6" Margin="5,3,22,3"/>
+                <ScrollBar Name="scrollBar_2" Value="{Binding Path=[1].LinestNumber,UpdateSourceTrigger=Explicit}" Minimum="2" Maximum="6" Orientation="Vertical" SmallChange="1" Grid.Row="2" Grid.Column="6" HorizontalAlignment="Right" Margin="0,3,7,3" Width="18"/>
+
+                <CheckBox Content="{DynamicResource Setting_No_3}" IsChecked="{Binding Path=[2].IsActive,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="3" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                <ComboBox Name="cbBoxAxis3" SelectionChanged="cbBoxAxis_SelectionChanged" SelectedIndex="{Binding Path=[2].ChannelNo,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="3" Grid.Column="1" Margin="5,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_3_Min" Text="{Binding Path=[2].Minimum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="3" Grid.Column="2" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_3_Max" Text="{Binding Path=[2].Maximum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="3" Grid.Column="3" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBlock Name="tbkUnit3" Text="{Binding Path=[2].Unit,UpdateSourceTrigger=Explicit}" Grid.Row="3" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label Background="{Binding Path=[2].Foreground,UpdateSourceTrigger=Explicit,Mode=TwoWay}" MouseDown="TextBlock_MouseDown" Grid.Row="3" Grid.Column="5" Margin="10,7"/>
+                <TextBox Name="txtAxis_3_Linest" Text="{Binding Path=Value,ElementName=scrollBar_3}" IsReadOnly="True" BorderThickness="1,1,0,1" Grid.Row="3" Grid.Column="6" Margin="5,3,22,3"/>
+                <ScrollBar Name="scrollBar_3" Value="{Binding Path=[2].LinestNumber,UpdateSourceTrigger=Explicit}" Minimum="2" Maximum="6" Orientation="Vertical" SmallChange="1" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Right" Margin="0,3,7,3" Width="18"/>
+
+                <CheckBox Content="{DynamicResource Setting_No_4}" IsChecked="{Binding Path=[3].IsActive,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="4" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                <ComboBox Name="cbBoxAxis4" SelectionChanged="cbBoxAxis_SelectionChanged" SelectedIndex="{Binding Path=[3].ChannelNo,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="4" Grid.Column="1" Margin="5,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_4_Min" Text="{Binding Path=[3].Minimum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="4" Grid.Column="2" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_4_Max" Text="{Binding Path=[3].Maximum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="4" Grid.Column="3" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBlock Name="tbkUnit4" Text="{Binding Path=[3].Unit,UpdateSourceTrigger=Explicit}" Grid.Row="4" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label Background="{Binding Path=[3].Foreground,UpdateSourceTrigger=Explicit,Mode=TwoWay}" MouseDown="TextBlock_MouseDown" Grid.Row="4" Grid.Column="5" Margin="10,7"/>
+                <TextBox Name="txtAxis_4_Linest" Text="{Binding Path=Value,ElementName=scrollBar_4}" IsReadOnly="True" BorderThickness="1,1,0,1" Grid.Row="4" Grid.Column="6" Margin="5,3,22,3"/>
+                <ScrollBar Name="scrollBar_4" Value="{Binding Path=[3].LinestNumber,UpdateSourceTrigger=Explicit}" Minimum="2" Maximum="6" Orientation="Vertical" SmallChange="1" Grid.Row="4" Grid.Column="6" HorizontalAlignment="Right" Margin="0,3,7,3" Width="18"/>
+
+                <Border Grid.Row="5" Grid.ColumnSpan="7" Background="Silver"/>
+
+                <CheckBox Content="{DynamicResource Setting_No_X}" IsHitTestVisible="False" Focusable="False" IsChecked="{Binding Path=[4].IsActive}" Grid.Row="6" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                <ComboBox Name="cbBoxAxis5" SelectionChanged="cbBoxAxis_SelectionChanged" SelectedIndex="{Binding Path=[4].ChannelNo,Mode=TwoWay,UpdateSourceTrigger=Explicit}" Grid.Row="6" Grid.Column="1" Margin="5,0" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_5_Min" Text="{Binding Path=[4].Minimum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="6" Grid.Column="2" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBox Name="txtAxis_5_Max" Text="{Binding Path=[4].Maximum,StringFormat=f1,UpdateSourceTrigger=Explicit}" Grid.Row="6" Grid.Column="3" Margin="5,0" TextAlignment="Right" VerticalAlignment="Center"/>
+                <TextBlock Name="tbkUnit5" Text="{Binding Path=[4].Unit,UpdateSourceTrigger=Explicit}" Grid.Row="6" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label Background="{Binding Path=[4].Foreground,UpdateSourceTrigger=Explicit,Mode=TwoWay}" MouseDown="TextBlock_MouseDown" Grid.Row="6" Grid.Column="5" Margin="10,7"/>
+            </Grid>
+        </GroupBox>
+        <Button Height="35" Content="{DynamicResource Setting_Button_Done}" IsDefault="True" HorizontalAlignment="Right" Margin="0,0,33,12" Name="btnDone" Click="button_Click" VerticalAlignment="Bottom" Width="90"/>
+    </Grid>
+</Window>

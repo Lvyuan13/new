@@ -1,0 +1,91 @@
+﻿<Window x:Class="WpfApplication2.FilterCoe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="过滤系数设定" Height="600" Width="900" FontSize="12" Loaded="Window_Loaded" Background="{StaticResource bgMain}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.4*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="0.4*" />
+            <ColumnDefinition Width="157" />
+            <ColumnDefinition Width="0.4*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="0.4*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        
+        <Button Content="被测机组出口制冷剂温度" Margin=" 0,20,0,20" Grid.Column="1" Grid.Row="0" Name="list0" Click="list0_Click" />
+        <Button Content="冷凝器进口制冷剂气体温度" Margin="0,20,0,20" Grid.Column="1" Grid.Row="1" Name="list1" Click="list1_Click" />
+        <Button Content="冷凝器出口制冷剂液体温度" Margin=" 0,20,0,20" Grid.Column="1" Grid.Row="2" Name="list2" Click="list2_Click" />
+        <Button Content="膨胀阀前制冷剂液体温度" Margin=" 0,20,0,20" Grid.Column="1" Grid.Row="3" Name="list3" Click="list3_Click" />
+        <Button Content="量热器出口制冷剂气体温度" Margin=" 0,20,0,20" Grid.Column="1" Grid.Row="4" Name="list4" Click="list4_Click" />
+        <Button Content="被测机组入口制冷剂温度" Margin=" 0,20,0,20" Grid.Column="1" Grid.Row="5" Name="list5" Click="list5_Click" />
+        <Button Content="环境温度" Margin=" 0,20,0,20" Grid.Column="1" Grid.Row="6" Name="list6" Click="list6_Click" />
+        <Button Content="冷却水进口温度" Margin=" 0,20,0,20" Grid.Column="1" Grid.Row="7" Name="list7" Click="list7_Click" />
+        <Button Content="冷却水出口温度" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="0" Name="list8" Click="list8_Click" />
+        <Button Content="冷凝机组冷却水出水温度" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="1" Name="list9" Click="list9_Click" />
+        <Button Content="压缩机箱温度" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="2" Name="list10" Click="list10_Click" />
+        <Button Content="压缩机扭矩" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="3" Name="list11" Click="list11_Click" />
+        <Button Content="被测机组出口制冷剂压力" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="4" Name="list12" Click="list12_Click" />
+        <Button Content="冷凝器进口制冷剂气体压力" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="5" Name="list13" Click="list13_Click" />
+        <Button Content="冷凝器出口制冷剂液体压力" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="6" Name="list14" Click="list14_Click" />
+        <Button Content="膨胀阀前制冷剂液体压力" Margin=" 0,20,0,20" Grid.Column="3" Grid.Row="7" Name="list15" Click="list15_Click" />
+        <Button Content="量热器第二制冷剂压力" Margin=" 0,20,0,20" Grid.Column="5" Grid.Row="0" Name="list16" Click="list16_Click" />
+        <Button Content="量热器出口制冷剂气体压力" Margin=" 0,20,0,20" Grid.Column="5" Grid.Row="1" Name="list17" Click="list17_Click" />
+        <Button Content="被测机组入口制冷剂压力" Margin=" 0,20,0,20" Grid.Column="5" Grid.Row="2" Name="list18" Click="list18_Click" />
+        <Button Content="压缩机转速" Margin=" 0,20,0,20" Grid.Column="5" Grid.Row="3" Name="list19" Click="list19_Click" />
+        <Button Content="压差传感器" Margin=" 0,20,0,20" Grid.Column="5" Grid.Row="4" Name="list20" Click="list20_Click" />
+        <Button Content="恒温水槽回水流量" Margin=" 0,20,0,20" Grid.Column="5" Grid.Row="5" Name="list21" Click="list21_Click" />
+        <Button Content="量热器输入功率" Margin=" 0,20,0,20" Grid.Column="5" Grid.Row="6" Name="list22" Click="list22_Click" />
+
+        <Button Content="主测制冷剂流量" Margin=" 0,20,0,20" Grid.Column="7" Grid.Row="0" Name="btA_RefFlowrate" Click="btA_RefFlowrate_Click" />
+        <Button Content="主测制冷量" Margin=" 0,20,0,20" Grid.Column="7" Grid.Row="1" Name="btA_CoolingCapacity" Click="btA_CoolingCapacity_Click" />
+        <Button Content="辅测制冷剂流量" Margin=" 0,20,0,20" Grid.Column="7" Grid.Row="2" Name="btG_RefFlowrate" Click="btG_RefFlowrate_Click" />
+        <Button Content="辅测制冷量" Margin=" 0,20,0,20" Grid.Column="7" Grid.Row="3" Name="btG_CoolingCapacity" Click="btG_CoolingCapacity_Click" />
+        
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="0" Name="tb0"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="1" Name="tb1"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="2" Name="tb2"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="3" Name="tb3"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="4" Name="tb4"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="5" Name="tb5"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="6" Name="tb6"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="0" Grid.Row="7" Name="tb7"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="0" Name="tb8"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="1" Name="tb9"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="2" Name="tb10"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="3" Name="tb11"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="4" Name="tb12"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="5" Name="tb13"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="6" Name="tb14"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="2" Grid.Row="7" Name="tb15"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="4" Grid.Row="0" Name="tb16"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="4" Grid.Row="1" Name="tb17"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="4" Grid.Row="2" Name="tb18"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="4" Grid.Row="3" Name="tb19"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="4" Grid.Row="4" Name="tb20"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="4" Grid.Row="5" Name="tb21"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="4" Grid.Row="6" Name="tb22"/>
+
+        <TextBox Margin="10,20,10,20" Grid.Column="6" Grid.Row="0" Name="tbA_RefFlowrate"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="6" Grid.Row="1" Name="tbA_CoolingCapacity"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="6" Grid.Row="2" Name="tbG_RefFlowrate"/>
+        <TextBox Margin="10,20,10,20" Grid.Column="6" Grid.Row="3" Name="tbG_CoolingCapacity"/>
+        <TextBox Margin="10,20,10,20" Name="tbChilllerRefFlowRate" Grid.Column="6" Grid.Row="4" />
+        <TextBox Grid.Row="5" Margin="10,20,10,20" Name="tbChilllerCoolingCapacity" Grid.Column="6" />
+        <TextBox Grid.Row="6" Margin="10,20,10,20" Name="tbChillerPower" Grid.Column="6" />
+        <Button Content="冷水机组制冷剂流量" Margin="0,18,1,20" Name="btChilllerRefFlowRate" Grid.Column="7" Grid.Row="4" Click="btChilllerRefFlowRate_Click" />
+        <Button Content="冷水机组冷量" Grid.Row="5" Margin="0,20,1,20" Name="btChilllerCoolingCapacity" Grid.Column="7" Click="btChilllerCoolingCapacity_Click" />
+        <Button Content="冷水机组输入功率" Grid.Row="6" Margin="0,20,1,20" Name="btChillerPower" Grid.Column="7" Click="btChillerPower_Click" />
+    </Grid>
+</Window>

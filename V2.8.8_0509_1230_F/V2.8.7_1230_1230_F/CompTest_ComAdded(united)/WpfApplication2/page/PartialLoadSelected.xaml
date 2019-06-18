@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApplication2.PartialLoadSelected"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="部分负荷选择" Background="{StaticResource bgMain}" Height="166" Width="346" Loaded="Window_Loaded" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="5*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="4*" />
+        </Grid.ColumnDefinitions>
+        <RadioButton Content="25%" Height="25" HorizontalAlignment="Left" Margin="25,10,0,0" Name="rb25" VerticalAlignment="Top" FontSize="16" IsChecked="True" Checked="rb25_Checked" />
+        <RadioButton Content="50%" Height="25" HorizontalAlignment="Left" Margin="25,10,0,0" Name="rb50" VerticalAlignment="Top" Grid.Column="2" FontSize="16" Checked="rb50_Checked" />
+        <RadioButton Content="75%" Height="24" HorizontalAlignment="Left" Margin="25,10,0,0" Name="rb75" VerticalAlignment="Top" Grid.Row="1" FontSize="16" Checked="rb75_Checked" />
+        <RadioButton Content="100%" Height="24" HorizontalAlignment="Left" Margin="25,10,0,0" Name="rb100" VerticalAlignment="Top" Grid.Column="2" Grid.Row="1" FontSize="16" Checked="rb100_Checked" />
+        <Button Content="确定" Height="23" HorizontalAlignment="Left" Margin="124,22,0,0" Name="btConfirm" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="3" Grid.Row="2" Click="btConfirm_Click" />
+    </Grid>
+</Window>

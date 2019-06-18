@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApplication2.Starting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="初始化" Height="260" Width="420" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="{StaticResource bgMain}" Loaded="Window_Loaded">
+    <DockPanel>
+        <Grid>
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="84,100,0,0" Name="textBlock1" Text="textBlock1" VerticalAlignment="Top" Visibility="Collapsed" Loaded="textBlock1_Loaded" />
+            <Image Margin="0,0,0,0" Name="image1" Stretch="Fill" Source="/WpfApplication2;component/Images/Starting.jpg" />
+            
+        </Grid>
+    </DockPanel>
+</Window>

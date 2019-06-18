@@ -1,0 +1,511 @@
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.04\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.08\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.10\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.10\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.10\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.10\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.10\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.31-模拟版本\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.31-模拟版本\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.31-模拟版本\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.31-模拟版本\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏苏州中建净化\NSAE.FPTB.FFU_2011.10.31-模拟版本\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB_2011.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB_2011.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB_2011.11.03\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB_2011.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB_2011.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB.HEC_2011.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB.HEC_2011.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB.HEC_2011.11.03\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB.HEC_2011.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\江苏昆山奕昕\NSAE.FPTB.HEC_2011.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\安徽芜湖奇瑞\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2011.11.09\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.FPTB.Chery_2012.05.29\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.05\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.05\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.05\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.05\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.05\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.12\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.12\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.12\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.12\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.06.12\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.26\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.26\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.26\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.26\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.26\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\焓熵\项目文件\安徽芜湖奇瑞\潘工\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\安徽芜湖奇瑞\技术中心\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\安徽芜湖奇瑞\技术中心\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\安徽芜湖奇瑞\技术中心\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\安徽芜湖奇瑞\技术中心\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\安徽芜湖奇瑞\技术中心\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.Chery_2012.07.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.SGS_2012.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.SGS_2012.11.27\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.28\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.28\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.28\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.28\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\湖北武汉检测中心 SGS\NSAE.FPTB.SGS_2012.11.28\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.JAC_2013.10.31\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.JAC_2013.11.02\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.03\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.03\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.03\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.04\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.04\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.04\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.04\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_2013.11.04\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.JAC_2013.11.06_1\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.JAC_2013.11.06_1\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.JAC_2013.11.06_1\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.FPTB.JAC_2013.11.06_1\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.JAC_2013.11.06_1\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.07\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.07\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.07\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.07\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.07\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.08\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.08\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.08\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.08\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.08\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\江淮汽车整车气密性及风量\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\江淮汽车整车气密性及风量\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海三爱斯 3S\江淮汽车整车气密性及风量\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海三爱斯 3S\江淮汽车整车气密性及风量\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海三爱斯 3S\江淮汽车整车气密性及风量\大风量\NSAE.FPTB.JAC_A_2013.11.26\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.Doowon\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.Doowon\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.FPTB.Doowon\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.FPTB.Doowon\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.FPTB.Doowon\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.16\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.16\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.16\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.16\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.16\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.FPTB.Doowon_2014.02.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.18\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.18\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.18\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.18\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\江苏常州斗源\NSAE.FPTB.Doowon_2014.02.18\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.02.18\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.02.18\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.02.18\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.02.18\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.02.18\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.07.23\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.07.23\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.07.23\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.07.23\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.07.23\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.18_曲线报表\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.18_曲线报表\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.18_曲线报表\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.18_曲线报表\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.18_曲线报表\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.20_曲线报表\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.20_曲线报表\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.20_曲线报表\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.20_曲线报表\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\重庆华宇\NSAE.FPTB.CQHY_2014.08.20_曲线报表\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.WaterChillingUnit\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.10.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.10.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.10.24\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.10.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.10.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.07\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.07\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.07\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.07\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.07\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.10\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.10\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.10\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.10\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.10\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit_2014.11.11\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.16\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.16\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.16\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.16\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.16\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit_2014.11.17\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\NSAE.WaterChillingUnit_2014.11.19\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.21\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.21\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.21\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.21\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.21\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.28_UPAN\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.28_UPAN\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.28_UPAN\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.28_UPAN\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2014.11.28_UPAN\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.30\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.30\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.30\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.30\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.03.30\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.10\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.10\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.10\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.10\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.10\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.WaterChillingUnit_2015.04.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.WaterChillingUnit_2015.04.24\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\NSAE.WaterChillingUnit_2015.04.24\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\NSAE.WaterChillingUnit_2015.04.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\NSAE.WaterChillingUnit_2015.04.24\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.24.2043\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.24.2043\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.24.2043\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.24.2043\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\公司\项目文件\上海检验检疫局\冷水机组\NSAE.WaterChillingUnit_2015.04.24.2043\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\code\CSharp\02 2014-10_检疫局冷水机组测试台\NSAE.WaterChillingUnit_2015.05.02\NSAE.WaterChillingUnit_2015.05.02\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\code\CSharp\02 2014-10_检疫局冷水机组测试台\NSAE.WaterChillingUnit_2015.05.02\NSAE.WaterChillingUnit_2015.05.02\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\code\CSharp\02 2014-10_检疫局冷水机组测试台\NSAE.WaterChillingUnit_2015.05.02\NSAE.WaterChillingUnit_2015.05.02\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\02 2014-10_检疫局冷水机组测试台\NSAE.WaterChillingUnit_2015.05.02\NSAE.WaterChillingUnit_2015.05.02\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\code\CSharp\02 2014-10_检疫局冷水机组测试台\NSAE.WaterChillingUnit_2015.05.02\NSAE.WaterChillingUnit_2015.05.02\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\RTCurveSolution\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\RTCurveSolution\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\RTCurveSolution\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\RTCurveSolution\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\RTCurveSolution\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+C:\Users\Administrator\Desktop\RTCurveSolution\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+C:\Users\Administrator\Desktop\RTCurveSolution\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+C:\Users\Administrator\Desktop\RTCurveSolution\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RTCurveSolution\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+C:\Users\Administrator\Desktop\RTCurveSolution\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\za\exe\practise2\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\za\exe\practise2\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\za\exe\practise2\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\za\exe\practise2\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\za\exe\practise2\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\za\exe\WpfApplication2\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\za\exe\WpfApplication2\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\za\exe\WpfApplication2\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\za\exe\WpfApplication2\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\za\exe\WpfApplication2\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+C:\Users\YijunWang\Desktop\201509091119制冷压缩机\WpfApplication2\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+C:\Users\YijunWang\Desktop\201509091119制冷压缩机\WpfApplication2\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+C:\Users\YijunWang\Desktop\201509091119制冷压缩机\WpfApplication2\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YijunWang\Desktop\201509091119制冷压缩机\WpfApplication2\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+C:\Users\YijunWang\Desktop\201509091119制冷压缩机\WpfApplication2\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\za\exe\20150909compchiller_united\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\软件\CompTest_ComAdded(united)201511031807F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\软件\CompTest_ComAdded(united)201511031807F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\软件\CompTest_ComAdded(united)201511031807F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\软件\CompTest_ComAdded(united)201511031807F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\软件\CompTest_ComAdded(united)201511031807F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded(united)201511041934F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded(united)201511041934F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded(united)201511041934F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\CompTest_ComAdded(united)201511041934F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded(united)201511041934F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded_ByYJW_201511051458\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded_ByYJW_201511051458\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded_ByYJW_201511051458\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\CompTest_ComAdded_ByYJW_201511051458\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded_ByYJW_201511051458\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded(united)201511061708F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded(united)201511061708F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded(united)201511061708F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\CompTest_ComAdded(united)201511061708F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded(united)201511061708F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\软件\CompTest_ComAdded(united)201511082226H\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\软件\CompTest_ComAdded(united)201511082226H\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\软件\CompTest_ComAdded(united)201511082226H\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\软件\CompTest_ComAdded(united)201511082226H\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\软件\CompTest_ComAdded(united)201511082226H\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded(united)201511112019F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded(united)201511112019F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\CompTest_ComAdded(united)201511112019F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\CompTest_ComAdded(united)201511112019F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\CompTest_ComAdded(united)201511112019F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\C_prog\0_testing\CompTest_ComAdded(united)201511181822F_400min+_201511141853F的版本之前运行24h+\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\C_prog\0_testing\CompTest_ComAdded(united)201511181822F_400min+_201511141853F的版本之前运行24h+\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\C_prog\0_testing\CompTest_ComAdded(united)201511181822F_400min+_201511141853F的版本之前运行24h+\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\C_prog\0_testing\CompTest_ComAdded(united)201511181822F_400min+_201511141853F的版本之前运行24h+\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\C_prog\0_testing\CompTest_ComAdded(united)201511181822F_400min+_201511141853F的版本之前运行24h+\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\测试软件\V2.1.1_1114_1120_物性计算工程和数据库改为今天最终版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\测试软件\V2.1.1_1114_1120_物性计算工程和数据库改为今天最终版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\测试软件\V2.1.1_1114_1120_物性计算工程和数据库改为今天最终版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\测试软件\V2.1.1_1114_1120_物性计算工程和数据库改为今天最终版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\测试软件\V2.1.1_1114_1120_物性计算工程和数据库改为今天最终版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\2_测试File\V2.1.3_1114_1121_UT1，2，6\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\2_测试File\V2.1.3_1114_1121_UT1，2，6\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\2_测试File\V2.1.3_1114_1121_UT1，2，6\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\2_测试File\V2.1.3_1114_1121_UT1，2，6\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\2_测试File\V2.1.3_1114_1121_UT1，2，6\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.1.1_1114_1121_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.1.1_1114_1121_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.1.1_1114_1121_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.1.1_1114_1121_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.1.1_1114_1121_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.1.6_1123_1124_f\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.1.6_1123_1124_f\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.1.6_1123_1124_f\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.1.6_1123_1124_f\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.1.6_1123_1124_f\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.2.2_1124_1127_水流开关在循环泵打开后开始扫\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.2.2_1124_1127_水流开关在循环泵打开后开始扫\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.2.2_1124_1127_水流开关在循环泵打开后开始扫\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.2.2_1124_1127_水流开关在循环泵打开后开始扫\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.2.2_1124_1127_水流开关在循环泵打开后开始扫\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.2.4_1124_1128_改结构2主钟更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.2.4_1124_1128_改结构2主钟更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.2.4_1124_1128_改结构2主钟更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.2.4_1124_1128_改结构2主钟更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.2.4_1124_1128_改结构2主钟更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.2.10_1124_1130_Chiller校核计算和曲线功率那一条\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.2.10_1124_1130_Chiller校核计算和曲线功率那一条\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.2.10_1124_1130_Chiller校核计算和曲线功率那一条\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.2.10_1124_1130_Chiller校核计算和曲线功率那一条\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.2.10_1124_1130_Chiller校核计算和曲线功率那一条\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.3.4_1124_1201_Chiller加系统图\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.3.4_1124_1201_Chiller加系统图\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.3.4_1124_1201_Chiller加系统图\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.3.4_1124_1201_Chiller加系统图\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.3.4_1124_1201_Chiller加系统图\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.3.6_1216_1216_现场更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.3.6_1216_1216_现场更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.3.6_1216_1216_现场更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.3.6_1216_1216_现场更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.3.6_1216_1216_现场更改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.4.1_1216_1218_添加报表参数\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.4.1_1216_1218_添加报表参数\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.4.1_1216_1218_添加报表参数\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.4.1_1216_1218_添加报表参数\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.4.1_1216_1218_添加报表参数\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.4.10_1216_1221_UT3初始值为30和水流量测量量程改为0-6\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.4.10_1216_1221_UT3初始值为30和水流量测量量程改为0-6\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.4.10_1216_1221_UT3初始值为30和水流量测量量程改为0-6\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.4.10_1216_1221_UT3初始值为30和水流量测量量程改为0-6\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.4.10_1216_1221_UT3初始值为30和水流量测量量程改为0-6\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\2_测试File\V2.5.2_1216_1222_报表读取问题解决\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\2_测试File\V2.5.2_1216_1222_报表读取问题解决\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\2_测试File\V2.5.2_1216_1222_报表读取问题解决\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\2_测试File\V2.5.2_1216_1222_报表读取问题解决\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\2_测试File\V2.5.2_1216_1222_报表读取问题解决\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\测试软件\V2.5.3_1216_1222_预备版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\测试软件\V2.5.3_1216_1222_预备版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+E:\测试软件\V2.5.3_1216_1222_预备版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\测试软件\V2.5.3_1216_1222_预备版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\测试软件\V2.5.3_1216_1222_预备版本\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.5.5_1223_1223_F_UT4_SH改为3\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.5.5_1223_1223_F_UT4_SH改为3\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.5.5_1223_1223_F_UT4_SH改为3\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.5.5_1223_1223_F_UT4_SH改为3\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.5.5_1223_1223_F_UT4_SH改为3\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.6.4_1223_1225_Car报表参数改正\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.6.4_1223_1225_Car报表参数改正\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.6.4_1223_1225_Car报表参数改正\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.6.4_1223_1225_Car报表参数改正\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.6.4_1223_1225_Car报表参数改正\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.6.8_1223_1227_修改ChillerInfo和记录超过4个一直有提示\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.6.8_1223_1227_修改ChillerInfo和记录超过4个一直有提示\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.6.8_1223_1227_修改ChillerInfo和记录超过4个一直有提示\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.6.8_1223_1227_修改ChillerInfo和记录超过4个一直有提示\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.6.8_1223_1227_修改ChillerInfo和记录超过4个一直有提示\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.6.9_1223_1227_闪屏的图像和Chiller系统图修改\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.6.9_1223_1227_闪屏的图像和Chiller系统图修改\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.6.9_1223_1227_闪屏的图像和Chiller系统图修改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.6.9_1223_1227_闪屏的图像和Chiller系统图修改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.6.9_1223_1227_闪屏的图像和Chiller系统图修改\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.7.0_1223_1227_自动记录不稳时清空记录\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.7.0_1223_1227_自动记录不稳时清空记录\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.7.0_1223_1227_自动记录不稳时清空记录\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.7.0_1223_1227_自动记录不稳时清空记录\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.7.0_1223_1227_自动记录不稳时清空记录\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.8.4_1223_1228_界面只读与布局\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.8.4_1223_1228_界面只读与布局\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb
+D:\Program_C\1_修改File\V2.8.4_1223_1228_界面只读与布局\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Program_C\1_修改File\V2.8.4_1223_1228_界面只读与布局\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+D:\Program_C\1_修改File\V2.8.4_1223_1228_界面只读与布局\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.csprojAssemblyReference.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.csproj.CoreCompileInputs.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\obj\Debug\SHHS.FPTB.Base.pdb
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\SHHS.FPTB.Base\bin\Debug\SHHS.FPTB.Base.pdb

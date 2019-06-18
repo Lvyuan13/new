@@ -1,0 +1,15 @@
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\Utility.exe
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\Utility.pdb
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\Agilent34970A_Comm.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\CsharpRefprop.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\WT3XXDAQ.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\Ivi.Visa.Interop.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\TmctlAPINet.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\Refprop_Wrapper.dll
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\Agilent34970A_Comm.pdb
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\bin\Release\WT3XXDAQ.pdb
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\obj\x86\Release\Utility.csprojAssemblyReference.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\obj\x86\Release\Utility.csproj.CoreCompileInputs.cache
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\obj\x86\Release\Utility.csproj.CopyComplete
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\obj\x86\Release\Utility.exe
+E:\WORK\V2.8.8_0509_1230_F\V2.8.7_1230_1230_F\CompTest_ComAdded(united)\Utility\obj\x86\Release\Utility.pdb

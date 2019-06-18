@@ -1,0 +1,17 @@
+D:\code\C#\SQI\SQISoftware\AgilentDllGen\bin\Debug\Agilent34970A_Comm.dll
+D:\code\C#\SQI\SQISoftware\AgilentDllGen\bin\Debug\Agilent34970A_Comm.pdb
+D:\code\C#\SQI\SQISoftware\AgilentDllGen\obj\Debug\ResolveAssemblyReference.cache
+D:\code\C#\SQI\SQISoftware\AgilentDllGen\obj\Debug\Agilent34970A_Comm.dll
+D:\code\C#\SQI\SQISoftware\AgilentDllGen\obj\Debug\Agilent34970A_Comm.pdb
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\AgilentDllGen\bin\Debug\Agilent34970A_Comm.dll
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\AgilentDllGen\bin\Debug\Agilent34970A_Comm.pdb
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\AgilentDllGen\bin\Debug\Ivi.Visa.Interop.dll
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\AgilentDllGen\obj\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\AgilentDllGen\obj\Debug\Agilent34970A_Comm.dll
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\AgilentDllGen\obj\Debug\Agilent34970A_Comm.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\AgilentDllGen\bin\Debug\Agilent34970A_Comm.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\AgilentDllGen\bin\Debug\Agilent34970A_Comm.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\AgilentDllGen\bin\Debug\Ivi.Visa.Interop.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\AgilentDllGen\obj\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\AgilentDllGen\obj\Debug\Agilent34970A_Comm.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\AgilentDllGen\obj\Debug\Agilent34970A_Comm.pdb

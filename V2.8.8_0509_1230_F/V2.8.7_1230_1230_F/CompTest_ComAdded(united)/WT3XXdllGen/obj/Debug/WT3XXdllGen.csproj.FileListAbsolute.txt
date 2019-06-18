@@ -1,0 +1,24 @@
+E:\SQI\WT3XXdllGen\bin\Debug\WT3XXdllGen.dll
+E:\SQI\WT3XXdllGen\bin\Debug\WT3XXdllGen.pdb
+E:\SQI\WT3XXdllGen\bin\Debug\TmctlAPINet.dll
+E:\SQI\WT3XXdllGen\obj\Debug\ResolveAssemblyReference.cache
+E:\SQI\WT3XXdllGen\obj\Debug\WT3XXdllGen.dll
+E:\SQI\WT3XXdllGen\obj\Debug\WT3XXdllGen.pdb
+D:\code\C#\SQI\SQISoftware\WT3XXdllGen\bin\Debug\WT3XXDAQ.dll
+D:\code\C#\SQI\SQISoftware\WT3XXdllGen\bin\Debug\WT3XXDAQ.pdb
+D:\code\C#\SQI\SQISoftware\WT3XXdllGen\bin\Debug\TmctlAPINet.dll
+D:\code\C#\SQI\SQISoftware\WT3XXdllGen\obj\Debug\ResolveAssemblyReference.cache
+D:\code\C#\SQI\SQISoftware\WT3XXdllGen\obj\Debug\WT3XXDAQ.dll
+D:\code\C#\SQI\SQISoftware\WT3XXdllGen\obj\Debug\WT3XXDAQ.pdb
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\WT3XXdllGen\bin\Debug\WT3XXDAQ.dll
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\WT3XXdllGen\bin\Debug\WT3XXDAQ.pdb
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\WT3XXdllGen\bin\Debug\TmctlAPINet.dll
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\WT3XXdllGen\obj\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\WT3XXdllGen\obj\Debug\WT3XXDAQ.dll
+E:\code\CSharp\05 2015-07 SQI&集美大学通讯\CommunicationTestSln\WT3XXdllGen\obj\Debug\WT3XXDAQ.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\WT3XXdllGen\bin\Debug\WT3XXDAQ.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\WT3XXdllGen\bin\Debug\WT3XXDAQ.pdb
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\WT3XXdllGen\bin\Debug\TmctlAPINet.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\WT3XXdllGen\obj\Debug\ResolveAssemblyReference.cache
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\WT3XXdllGen\obj\Debug\WT3XXDAQ.dll
+E:\code\CSharp\04 2015-07_SQI压缩机测试台框架\ZipBackUp\UtilitySolution_F1.0.2.0_201509081552\WT3XXdllGen\obj\Debug\WT3XXDAQ.pdb
